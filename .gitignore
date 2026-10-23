@@ -1,0 +1,19 @@
+# Keep this new project separate from the old phase 2 deliverable
+phase 2/
+
+# C++ build artifacts
+cpp-source/**/build/
+cpp-source/**/*.exe
+cpp-source/**/*.obj
+cpp-source/**/*.ilk
+cpp-source/**/*.pdb
+cpp-source/**/*.exp
+cpp-source/**/*.lib
+
+# .NET build artifacts
+fsharp-migration/**/bin/
+fsharp-migration/**/obj/
+
+# OS junk
+Thumbs.db
+.DS_Store
